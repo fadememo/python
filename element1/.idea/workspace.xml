@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2bbf0f5-aa96-4320-8c33-5132cd3ba107" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/thread-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/thread-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/aqs/UseObjectLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/aqs/UseObjectLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/cas/UseUnsafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/cas/UseUnsafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/cas/UseVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/cas/UseVolatile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/juc/UseCountDownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/juc/UseCountDownLatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/pool/UseThreadPoolExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/bfxy/thread/core/pool/UseThreadPoolExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/majoy/multi/thread/cas/UseVolatile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java/thread-core/src/main/java/com/majoy/thread/core/pool/testExecutors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../patchwork" beforeDir="false" afterPath="$PROJECT_DIR$/../../patchwork" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,17 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="element1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="element1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -165,7 +146,7 @@
       <workItem from="1546841203070" duration="5595000" />
       <workItem from="1546851794256" duration="5500000" />
       <workItem from="1546938456610" duration="6949000" />
-      <workItem from="1554129632516" duration="1994000" />
+      <workItem from="1554129632516" duration="2317000" />
     </task>
     <task id="LOCAL-00001" summary="提交刚开始学习时候的代码,复习一下,下一步爬些网站用">
       <created>1554129824840</created>
@@ -178,7 +159,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25028000" />
+    <option name="totallyTimeSpent" value="25351000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
